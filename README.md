@@ -26,4 +26,4 @@
 
 <a href="https://t.me/O_P_Hacker"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
 
-</details>
+</details> 
